@@ -19,6 +19,8 @@
   ## Installation
   
   Go to my GITHUB repo Password-Generator, look for my live URL click over it and you are ready to go.
+
+  Live URL: https://andresplasenciaborja.github.io/Password-Generator/
   
   ## Usage
   
